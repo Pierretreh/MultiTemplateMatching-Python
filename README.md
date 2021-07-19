@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/multi-template-matching/MultiTemplateMatching-Python/master?filepath=tutorials)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/multi-template-matching/MultiTemplateMatching-Python/skimage+shapely?filepath=tutorials)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LauLauThom?style=social)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/laurent132.thomas@laposte.net)
 
